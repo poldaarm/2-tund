@@ -34,5 +34,14 @@
 	echo "õnne";
 	
 	
-	
-	
+?>
+<br>
+
+<?php
+
+	//kuupäev
+
+	echo date("l j M Y");
+
+
+?>
