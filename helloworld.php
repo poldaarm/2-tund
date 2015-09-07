@@ -16,7 +16,23 @@
 		echo "alaealine";
 	} else {
 		echo "täisealine";
+	
 	}
 
+?>
 
+<br>
 
+<?php
+	
+	for($i = 0; $i < $age; $i = $i + 1) {
+		echo "palju, ";
+		
+		//see, mida korratakse {    } vahel
+	}
+	
+	echo "õnne";
+	
+	
+	
+	
